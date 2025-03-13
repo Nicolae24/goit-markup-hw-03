@@ -80,8 +80,7 @@ align-items: center;}
 
 .item-list-link-header {
     display: flex;
-    padding-top: 24px;
-     padding-bottom: 24px;
+  
 }
 
 .list-link-header {display: flex;
@@ -111,6 +110,8 @@ display: block;} */
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        padding: 24px 0;
+        
 }
 .nadvsim:hover, .nadvsim:focus {color: #404bbf;}
 
